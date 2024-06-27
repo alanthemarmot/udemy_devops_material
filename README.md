@@ -7,3 +7,12 @@
 
 - Code repository here: https://github.com/devopshydclub/vprofile-project 
 
+
+## Vagrant Commands
+
+* vagrant up
+* vagrant ssh
+* sudo -i
+* ip addr show
+* vagrant halt
+* vagrant destroy
